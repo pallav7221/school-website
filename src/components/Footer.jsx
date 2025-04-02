@@ -3,8 +3,7 @@ import { useForm } from 'react-hook-form';
 import { footerContact, footerContactNum, navLinks } from '../constants';
 
 // import { Link } from 'react-router-dom'
-import { FaAngleRight, FaArrowRight, FaEnvelope, FaFacebook, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
-import { NavLink } from 'react-router-dom';
+import { FaAngleRight, FaArrowRight, FaEnvelope } from 'react-icons/fa';
 
 const Footer = () => {
     const {

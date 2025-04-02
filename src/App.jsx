@@ -8,14 +8,12 @@ import {
 
 // Components
 // import Navbar from "./components/Navbar";
-import ProgramError from "./components/ProgramError";
 import Error from "./components/Error";
 
 // Routes
 import Home from "./routes/Home";
 import About from "./routes/About";
 import Facility from "./routes/Facility";
-import Admission from "./routes/Admission";
 import Contact from "./routes/Contact";
 
 //layout import

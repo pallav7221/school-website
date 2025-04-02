@@ -41,7 +41,7 @@ const Testimonials = () => {
           }
           return (
             <article className={position} key={id}>
-              <img src={image} />
+              <img alt='testi' src={image} />
               <h3>{name}</h3>
               <p>{testimonial}</p>
               <div className="icon">

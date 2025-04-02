@@ -14,6 +14,7 @@ const Contact = () => {
           style={{ border: 0 }}
           allowFullScreen="" 
           loading="lazy" 
+          title='maps'
           referrerPolicy="no-referrer-when-downgrade"></iframe>
       </div>
       <ContactUs />

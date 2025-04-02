@@ -4,7 +4,6 @@ import { NavLink } from "react-router-dom";
 // Components
 import Footer from "../components/Footer";
 import MissionVision from "../components/MissionVision";
-import Testimonials from "../components/Testimonials";
 import WhySchool from "../components/WhySchool";
 
 const Home = () => {

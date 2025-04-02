@@ -1,4 +1,4 @@
-import { FaAngleDoubleDown, FaCertificate, FaChalkboardTeacher, FaEnvelope, FaPhone, FaQuoteRight, FaSchool } from 'react-icons/fa';
+import { FaAngleDoubleDown, FaCertificate, FaChalkboardTeacher, FaQuoteRight, FaSchool } from 'react-icons/fa';
 import image3 from '../assets/image3.jpg';
 import image4 from '../assets/image4.webp';
 import image73 from '../assets/image73.jpeg';
@@ -8,8 +8,6 @@ import image10 from '../assets/image10.jpeg';
 import image11 from '../assets/image11.jpeg';
 import image13 from '../assets/image13.jpeg';
 import image14 from '../assets/image14.jpeg';
-import image15 from '../assets/image15.jpg';
-import image16 from '../assets/image16.jpg';
 import image17 from "../assets/program8.jpeg"
 import program1 from '../assets/program1.jpeg';
 import program2 from '../assets/program2.jpeg';
