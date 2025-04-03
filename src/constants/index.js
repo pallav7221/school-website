@@ -224,8 +224,8 @@ export const facilities = [
     {
         id: 6,
         images: [image14],
-        title: "Art Studio",
-        text: "Creativity thrives in our art studios, where students can explore various mediums and unleash their artistic potential. These studios are designed to inspire young artists to express themselves through visual arts.",
+        title: "skill Exhibition",
+        text: "Creativity thrives in our skill Exhibitions, where students can explore various mediums and unleash their artistic potential. These arts are designed to inspire young artists to express themselves through visual arts.",
     },
     {
         id: 9,
